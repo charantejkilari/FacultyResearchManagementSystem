@@ -1,3 +1,4 @@
+[SRS(READ ME).pdf](https://github.com/charantejkilari/FacultyResearchManagementSystem/files/6098915/SRS.READ.ME.pdf)
 # FacultyResearchManagementSystem
 I have uploaded a file named "SRS(READ ME)", go through that, it gives a clear insight to you about this web applicatio
 #how to run---
